@@ -1,0 +1,9 @@
+{
+  "name": "garantie-monitor",
+  "version": "0.0.0",
+  "description": "GarantieMonitor",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
