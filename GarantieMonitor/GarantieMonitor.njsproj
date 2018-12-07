@@ -34,6 +34,9 @@
     <Content Include="HTML\Home.html">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="HTML\PageNotFound404.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
